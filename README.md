@@ -9,5 +9,7 @@ The following 10 classes mentioned above will be classified using Convolutional 
 
 ## I worked on python 3.6 (jupyter notebook) and used the following libraries for the project:
 torch
+
 matplotlib
+
 numpy
